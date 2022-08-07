@@ -7,13 +7,13 @@
 
 # ***DOWNLOAD***
 ### ***For SOCKS5***
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt -o socks5.txt```
+```curl https://raw.githubusercontent.com/Xcod3bughunt3r/Proxy-List/master/socks5.txt -o socks5.txt```
 
 ### ***For SOCKS4***
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt -o socks4.txt```
+```curl https://raw.githubusercontent.com/Xcod3bughunt3r/Proxy-List/master/socks4.txt -o socks4.txt```
 
 ### ***For HTTP(S)***
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt -o http.txt```
+```curl https://raw.githubusercontent.com/Xcod3bughunt3r/Proxy-List/master/http.txt -o http.txt```
 
 ### ***NOTES***
 #### ``Ini Hanya Untuk Tujuan Pendidikan. Baik Saya Mengatakan Atau Saya Mempromosikan Untuk Melakukan Sesuatu yang Ilegal.  Tolong Beri Kredit, Bintang, Dan Ikuti Jika Anda Menggunakan Daftar SOCKS Saya.``
